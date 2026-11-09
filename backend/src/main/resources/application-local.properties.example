@@ -1,0 +1,4 @@
+spring.datasource.username=postgres
+spring.datasource.password=CHANGE_ME
+spring.security.user.name=admin
+spring.security.user.password=CHANGE_ME
